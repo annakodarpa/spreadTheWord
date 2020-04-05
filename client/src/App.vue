@@ -11,6 +11,8 @@
     <Start
       v-if="loggedIn && !enterData"
     />
+    <img v-if="loggedIn && !enterData"
+    src="./assets/mapImage.png"/>
     <EnterDataForm
       v-if="enterData"
       @submit="submit"
