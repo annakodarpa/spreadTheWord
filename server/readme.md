@@ -1,4 +1,3 @@
-
 ### Install dependencies:
 `npm i`
 
@@ -13,5 +12,3 @@
 
 ### Generate documentation:
 `npm run doc`
-
-### Note: FOR CODE DEMONSTRATION ONLY.
