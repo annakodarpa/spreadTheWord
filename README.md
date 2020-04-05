@@ -1,5 +1,5 @@
 ### Spread The Word
-This will become a solution where you can do the folling:
+This will become a solution where you can do the following:
 
 * Register that you are sick with Covid-19 symptoms.
 * Register important data on how you may have gotten sick.
